@@ -47,7 +47,7 @@ If you wish to use the code or research materials in a commercial context **befo
 
 **Alexander Chernov**  
 GitHub: [@doytsujin](https://github.com/doytsujin)  
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/thedoytsujin/)
+LinkedIn: [@thedoytsujin](https://www.linkedin.com/in/thedoytsujin/)
 
 A separate commercial license agreement can be negotiated.
 
